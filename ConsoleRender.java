@@ -168,7 +168,7 @@ class Renderer{
     private Frame workingFrame;
 
     /** Frame that is displayed. Methods do not manipulate this. */
-    private Frame displayFrame;
+    protected Frame displayFrame;
 
     protected double lineStepSize = 0.5; // step size to be used while drawing lines. details in drawLine()
 
