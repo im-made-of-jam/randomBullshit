@@ -2,12 +2,6 @@ import java.io.IOException;
 import java.util.List;
 import java.util.ArrayList;
 
-public class ConsoleRender{
-    public static void main(String[] args) throws IOException, InterruptedException{
-        
-    }
-}
-
 /**
  * Lots of these for a square-ish frame. All 'pixels' false / blank when created.
  * Major component of {@code Frame}.
